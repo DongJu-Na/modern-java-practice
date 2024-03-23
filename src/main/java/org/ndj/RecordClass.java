@@ -41,16 +41,15 @@ public class RecordClass {
     record Member(String name, int age) {}
 
     public static void main(String[] args) {
-        Member member = new Member("DJ",30);
-        System.out.println(member.toString());
-        System.out.println("name > " + member.name);
-        System.out.println("age > " + member.age);
-
         MemberDto oldMember = new MemberDto("DJ",30);
         System.out.println(oldMember.toString());
         System.out.println("name > " + oldMember.name);
         System.out.println("age > " + oldMember.age);
 
+        Member member = new Member("DJ",30);
+        System.out.println(member.toString());
+        System.out.println("name > " + member.name);
+        System.out.println("age > " + member.age);
 
     }
 
