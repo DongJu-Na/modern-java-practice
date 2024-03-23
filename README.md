@@ -11,3 +11,8 @@ Example project to practice modern Java
 - Text Block
 - Record Class
 - Stream API
+
+## Contributing
+
+Contributions are always welcome!<br/>
+If you want to modify a good example or code, please write a PR. 😅
