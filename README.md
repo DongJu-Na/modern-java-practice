@@ -6,6 +6,8 @@ Example project to practice modern Java
 
 
 ## How to Study 📚
+![B4926602499_l](https://github.com/DongJu-Na/modern-java-practice/assets/79893048/bc188aa3-c421-49bc-a407-041d16424959)
+
 
 ### Study progress is recorded and saved in this repository. The recorded contents are as follows.
 - **Notation of the person in charge for each sub-topic and a summary of each sub-topic**
